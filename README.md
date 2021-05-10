@@ -1,7 +1,7 @@
 # Euclidean-Bipartite-Matching
 The present Mathematica notebook is used to minimize the total distance between two distinct sets of points. The method used is widely known as the Euclidean Bipartite Matching (since based on Euclidean distances).
 
-As a sample case, please, insert the coordinate files (as. txt) and Mathematica notebook (.nb) into the same directory. Run the code and see the matching nodes linked with red lines.
+As a sample case, please, insert the coordinate files (boundarynodes.txt and controlnodes.txt) and the Mathematica notebook (EuclideanBipartiteMatching.nb) into the same directory. Run the code and see the matching nodes linked with red lines.
 
 If you use it for your work, please, cite it as 
 
